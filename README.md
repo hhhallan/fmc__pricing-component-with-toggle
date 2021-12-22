@@ -2,4 +2,4 @@
 
 ![Design preview for the Pricing component with toggle coding challenge](./design/desktop-preview.jpg)
 
-# [Live Solution]() - # [Solution]()
+# [Live Solution](https://hhhallan.github.io/fmc__pricing-component-with-toggle/) - # [Solution](https://www.frontendmentor.io/solutions/pricing-component-with-toggle-AXPuXUkGG)
